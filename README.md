@@ -45,7 +45,7 @@ Another problem is how to make the breathe sensor. Because I can not find the co
 
 ### Reflections on design and components
 #### My design:
-I made a safe doorbell system.
+I made a smart health system.
 
 Pros:
 It can measure the pulse and the led can blink with the frequency of people's heart rate.  
