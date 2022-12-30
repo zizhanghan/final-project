@@ -29,9 +29,10 @@ Scissors
 
 ### Narrative overview of project development process
 At the beginning I intend to use APDS 9960 to make my breathe sensor. However, the proximity function can not help me to measure pulse. The output of the APDS 9960 is always 18 although I change the gain and other parameters. Then, the laboratory assistant give me a pulse sensor so that I can finish the pulse measurement. THe result in serial is perfect. I am sorry that I use arduino. In fact, I want to use the RP2040 at begining, but I do not know how to use analog read on rp2040. Then I use Arduino to make this function.  
-https://github.com/zizhanghan/final-project/blob/main/video/1.mp4
+https://github.com/zizhanghan/final-project/blob/main/video/1.mp4  
 
-For lcd, I learn some function from google to drive my lcd and show the result. Although it is not very clear, It can show the correct result.
+For lcd, I learn some function from google to drive my lcd and show the result. Although it is not very clear, It can show the correct result.  
+https://github.com/zizhanghan/final-project/blob/main/video/2.mp4  
 
 For breathe sensor, I see a example from internet. They use belt, elastic band, thread, sliver thread and fiber conductor to finish their design.
 However, I do not find the sliver thread and fiber conductor in shop. So I use wires and variable resistor which the resistence will change with the degree of bending. I try it and the result is perfect. I can see the breathe wave on the lcd.  
