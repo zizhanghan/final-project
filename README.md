@@ -36,6 +36,7 @@ https://github.com/zizhanghan/final-project/blob/main/video/2.mp4
 
 For breathe sensor, I see a example from internet. They use belt, elastic band, thread, sliver thread and fiber conductor to finish their design.
 However, I do not find the sliver thread and fiber conductor in shop. So I use wires and variable resistor which the resistence will change with the degree of bending. I try it and the result is perfect. I can see the breathe wave on the lcd.  
+https://github.com/zizhanghan/final-project/blob/main/video/3.mp4  
 
 ### Troubleshooting
 One of the problems I encountered is how to measure the pulse by using APDS 9960. After I try a lot of times, I think I can not use the proximity function to finish it. Only way is to use the receive function in APDS9960 to receive the result of outer light change. But I do not have much time because I have a lot of homeworks. At the same, the laboratory assistant borrow me a pulse sensor and I learn how to drive it. 
